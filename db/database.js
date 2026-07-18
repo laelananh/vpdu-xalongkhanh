@@ -202,7 +202,7 @@ let dbData = {
   settings: {
     site_title: 'CỔNG THÔNG TIN ĐIỆN TỬ VĂN PHÒNG ĐẢNG UỶ XÃ LONG KHÁNH',
     sub_title: 'ĐẢNG BỘ XÃ LONG KHÁNH - CỔNG THÔNG TIN ĐIỆN TỬ & CÔNG TÁC ĐẢNG',
-    address: 'Trụ sở UBND Xã Long Khánh, Ấp Mỹ Phú, Xã Long Khánh, Huyện Cái Bè, Tỉnh Tiền Giang',
+    address: 'Trụ sở Ủy Ban Nhân Dân Xã Long Khánh, Ấp Long Thái, Xã Long Khánh, Tỉnh Đồng Tháp',
     phone: '0273 3855 123 - Hotline: 0918 456 789',
     email: 'phongvanhoaxahoi@xalongkhanh.tiengiang.gov.vn',
     working_hours: 'Thứ 2 - Thứ 6: Sáng 07h30 - 11h30 | Chiều 13h30 - 17h00',
