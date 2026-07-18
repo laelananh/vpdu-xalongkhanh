@@ -34,7 +34,7 @@ const samplePosts = [
     slug: 'xa-my-thien-to-chuc-tham-va-trao-qua-cho-cac-gia-dinh-chinh-sach-27-7',
     category_id: 'nguoi-co-cong',
     type: 'news',
-    summary: 'Sáng nay, đại diện Đảng ủy Xã Long Khánh và Văn phòng Xã hội đã đến thăm hỏi, trao 45 phần quà ý nghĩa cho Thương bệnh binh, Thân nhân liệt sĩ và Mẹ Việt Nam Anh hùng trên địa bàn xã.',
+    summary: 'Sáng nay, đại diện UBND Xã Long Khánh và Văn phòng Xã hội đã đến thăm hỏi, trao 45 phần quà ý nghĩa cho Thương bệnh binh, Thân nhân liệt sĩ và Mẹ Việt Nam Anh hùng trên địa bàn xã.',
     content: `<p>Hướng tới kỷ niệm Ngày Thương binh - Liệt sĩ 27/7, Đảng ủy, Hội đồng nhân dân, Ủy ban nhân dân và Mặt trận Tổ quốc xã Mỹ Thiện đã thành lập các đoàn đến thăm hỏi, động viên và trao tặng các phần quà cho các gia đình chính sách, người có công với cách mạng.</p>
     <p>Tại các nơi đến thăm, đại diện lãnh đạo xã Mỹ Thiện đã ân cần hỏi thăm sức khỏe, đời sống của các thương bệnh binh, gia đình liệt sĩ; đồng thời bày tỏ lòng biết ơn sâu sắc trước những cống hiến, sinh của các thế hệ cha anh đi trước vì sự nghiệp giải phóng dân tộc, thống nhất đất nước.</p>
     <p>Mỗi phần quà trị giá 1.000.000 đồng cùng các nhu yếu phẩm đã được trao tận tay các hộ gia đình. Đại diện các gia đình chính sách cũng bày tỏ niềm xúc động và cảm ơn sự quan tâm chu đáo của chính quyền xã Mỹ Thiện.</p>`,
@@ -46,15 +46,15 @@ const samplePosts = [
   },
   {
     id: 2,
-    title: 'THÔNG BÁO: Lịch chi trả trợ cấp xã hội tháng 07/2026 tại Trụ sở Đảng ủy Xã Long Khánh',
+    title: 'THÔNG BÁO: Lịch chi trả trợ cấp xã hội tháng 07/2026 tại Trụ sở UBND Xã Long Khánh',
     slug: 'thong-bao-lich-chi-tra-tro-cap-xa-hoi-thang-07-2026',
     category_id: 'an-sinh',
     type: 'announcement',
-    summary: 'Văn phòng Đảng ủy Xã Long Khánh trân trọng thông báo lịch chi trả tiền trợ cấp bảo trợ xã hội và hỗ trợ người khuyết tật, người cao tuổi tháng 07/2026.',
-    content: `<p><strong>Văn phòng Đảng ủy Xã Long Khánh xin thông báo đến toàn thể nhân dân và các đối tượng thụ hưởng chính sách bảo trợ xã hội về lịch chi trả như sau:</strong></p>
+    summary: 'Văn phòng Xã hội Xã Long Khánh trân trọng thông báo lịch chi trả tiền trợ cấp bảo trợ xã hội và hỗ trợ người khuyết tật, người cao tuổi tháng 07/2026.',
+    content: `<p><strong>Văn phòng Xã hội Xã Long Khánh xin thông báo đến toàn thể nhân dân và các đối tượng thụ hưởng chính sách bảo trợ xã hội về lịch chi trả như sau:</strong></p>
     <ul>
       <li><strong>Thời gian chi trả:</strong> Ngày 20/07/2026 và 21/07/2026 (Buổi sáng: 08h00 - 11h00 | Buổi chiều: 14h00 - 16h30).</li>
-      <li><strong>Địa điểm:</strong> Hội trường Bộ phận Một cửa - Đảng ủy Xã Long Khánh.</li>
+      <li><strong>Địa điểm:</strong> Hội trường Bộ phận Một cửa - UBND Xã Long Khánh.</li>
       <li><strong>Giấy tờ mang theo:</strong> Căn cước công dân (CCCD) gắn chip bản gốc, Sổ nhận trợ cấp hoặc giấy ủy quyền hợp lệ.</li>
     </ul>`,
     image_url: 'https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=800&q=80',
@@ -70,7 +70,7 @@ const samplePosts = [
     category_id: 'bao-hiem-y-te',
     type: 'news',
     summary: 'Theo quy định mới về chính sách bảo vệ sức khỏe người cao tuổi, tất cả công dân từ 75 tuổi trở lên thường trú tại xã Mỹ Thiện được ngân sách hỗ trợ 100% tiền đóng BHYT.',
-    content: `<p>Thực hiện chính sách an sinh xã hội nâng cao chăm sóc sức khỏe người cao tuổi, Đảng ủy Xã Long Khánh phối hợp với Bảo hiểm Xã hội triển khai cấp thẻ BHYT miễn phí cho công dân từ 75 tuổi trở lên.</p>
+    content: `<p>Thực hiện chính sách an sinh xã hội nâng cao chăm sóc sức khỏe người cao tuổi, UBND Xã Long Khánh phối hợp với Bảo hiểm Xã hội triển khai cấp thẻ BHYT miễn phí cho công dân từ 75 tuổi trở lên.</p>
     <h3>Hồ sơ chuẩn bị:</h3>
     <ol>
       <li>Tờ khai tham gia BHYT (Mẫu TK1-TS) - Cung cấp miễn phí tại bộ phận Một cửa.</li>
@@ -103,7 +103,7 @@ const samplePosts = [
     category_id: 'lao-dong',
     type: 'announcement',
     summary: 'Chương trình hỗ trợ đào tạo nghề ngắn hạn cho lao động nông thôn (May công nghiệp, Kỹ thuật điện dân dụng, Trồng cây ăn trái chất lượng cao) hoàn toàn miễn học phí.',
-    content: `<p>Văn phòng Đảng ủy Xã Long Khánh thông báo tuyển sinh các lớp học nghề ngắn hạn dành cho người lao động có hộ khẩu thường trú tại địa phương.</p>`,
+    content: `<p>Văn phòng Xã hội Xã Long Khánh thông báo tuyển sinh các lớp học nghề ngắn hạn dành cho người lao động có hộ khẩu thường trú tại địa phương.</p>`,
     image_url: 'https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=800&q=80',
     is_featured: false,
     views: 310,
@@ -160,7 +160,7 @@ const sampleServices = [
     level: 'Dịch vụ công Trực tuyến Một phần',
     time_limit: '05 ngày làm việc',
     fee: 'Miễn phí',
-    authority: 'Đảng ủy Xã Long Khánh phối hợp BHXH Huyện',
+    authority: 'UBND Xã Long Khánh phối hợp BHXH Huyện',
     steps: ['Bước 1: Nộp tờ khai TK1-TS', 'Bước 2: Cấp thẻ'],
     dossier: ['Tờ khai TK1-TS', 'Giấy tờ chứng minh']
   }
@@ -188,8 +188,8 @@ let dbData = {
       id: 1,
       username: 'admin',
       password: bcrypt.hashSync('admin123', 10),
-      fullname: 'Quản trị viên Phòng Văn hóa Xã hội',
-      email: 'admin@longkhanh.gov.vn',
+      fullname: 'Quản trị viên Văn phòng Đảng ủy Xã Long Khánh',
+      email: 'admin@xalongkhanh.gov.vn',
       role: 'admin',
       created_at: '2026-07-01 08:00:00'
     }
@@ -201,10 +201,10 @@ let dbData = {
   contacts: sampleContacts,
   settings: {
     site_title: 'CỔNG THÔNG TIN ĐIỆN TỬ VĂN PHÒNG ĐẢNG UỶ XÃ LONG KHÁNH',
-    sub_title: 'ĐẢNG BỘ XÃ LONG KHÁNH - BỘ PHẬN MỘT CỬA & PHÒNG VĂN HOÁ XÃ HỘI',
-    address: 'Trụ sở Đảng ủy Xã Long Khánh, Ấp Mỹ Phú, Xã Long Khánh, Huyện Cái Bè, Tỉnh Tiền Giang',
+    sub_title: 'ĐẢNG BỘ XÃ LONG KHÁNH - CỔNG THÔNG TIN ĐIỆN TỬ & CÔNG TÁC ĐẢNG',
+    address: 'Trụ sở UBND Xã Long Khánh, Ấp Mỹ Phú, Xã Long Khánh, Huyện Cái Bè, Tỉnh Tiền Giang',
     phone: '0273 3855 123 - Hotline: 0918 456 789',
-    email: 'vanphongdanguy@longkhanh.tiengiang.gov.vn',
+    email: 'phongvanhoaxahoi@xalongkhanh.tiengiang.gov.vn',
     working_hours: 'Thứ 2 - Thứ 6: Sáng 07h30 - 11h30 | Chiều 13h30 - 17h00',
     banner_announcement: 'Chào mừng Quý công dân đến với Cổng Dịch vụ công & Thông tin Văn phòng Đảng ủy Xã Long Khánh.'
   }
@@ -294,6 +294,8 @@ module.exports = {
       summary: postData.summary || '',
       content: postData.content || '',
       image_url: postData.image_url || 'https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?auto=format&fit=crop&w=800&q=80',
+      pdf_url: postData.pdf_url || '',
+      pdf_name: postData.pdf_name || '',
       is_featured: postData.is_featured === true || postData.is_featured === 'true' || postData.is_featured === 'on',
       views: 0,
       created_at: now,
@@ -376,7 +378,7 @@ module.exports = {
       code: data.code || `GT-MT-2026-0${newId}`,
       title: data.title,
       budget: data.budget || 'Thỏa thuận',
-      investor: data.investor || 'Đảng ủy Xã Long Khánh',
+      investor: data.investor || 'UBND Xã Long Khánh',
       status: data.status || 'Đang mời thầu',
       field: data.field || 'Mua sắm công',
       deadline: data.deadline || now,

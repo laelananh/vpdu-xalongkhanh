@@ -88,5 +88,5 @@ ON CONFLICT (id) DO NOTHING;
 
 -- Default Admin User (username: admin, password: admin123)
 INSERT INTO users (id, username, password, fullname, email, role) VALUES
-(1, 'admin', '$2a$10$wT8KzE0Y8sC.sYvMhO8Q3.H3G5bO0b0Z0J0J0J0J0J0J0J0J0J0J0', 'Quản trị viên Văn phòng Xã hội', 'admin@longkhanh.gov.vn', 'admin')
+(1, 'admin', '$2a$10$wT8KzE0Y8sC.sYvMhO8Q3.H3G5bO0b0Z0J0J0J0J0J0J0J0J0J0J0', 'Quản trị viên Văn phòng Đảng ủy Xã Long Khánh', 'admin@xalongkhanh.gov.vn', 'admin')
 ON CONFLICT (username) DO NOTHING;
