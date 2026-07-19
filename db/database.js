@@ -172,7 +172,7 @@ const sampleContacts = [
     fullname: 'Nguyễn Văn An',
     phone: '0912345678',
     email: 'nguyenvanan@gmail.com',
-    address: 'Ấp Mỹ Phú, Xã Long Khánh',
+    address: 'Trụ sở Ủy Ban Nhân Dân Xã Long Khánh, Ấp Long Thái, Xã Long Khánh, Tỉnh Đồng Tháp',
     title: 'Hỏi về thời gian làm lại thẻ BHYT bị mất cho người cao tuổi',
     content: 'Cho tôi hỏi cha tôi 80 tuổi bị mất thẻ BHYT, làm lại cấp lại mất bao lâu?',
     status: 'Đã trả lời',
